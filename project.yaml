@@ -1,0 +1,8 @@
+---
+General:
+  name: yaml-cpp
+  version: 1.0.0
+  type: header-lib
+
+Folders:
+  header: include
